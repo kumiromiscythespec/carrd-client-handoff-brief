@@ -128,6 +128,51 @@ Target/review date:
 How future work will be requested and approved (no private credentials):
 Provider support/documentation to consult:
 
+7. SHARE IMAGE AND DESCRIPTION — OPTIONAL
+Mark N/A if no separate share image is included. Use only project, role and
+file labels in this blank brief; do not add customer answers, private
+credentials or authentication links.
+
+[ ] Approved PNG and source wording identified.
+Approved edited PNG version/file label, or N/A:
+Source wording file label:
+Content permission and approval checked by (role label) / date:
+
+[ ] Separate edited image-description/alt-text draft identified.
+Description draft file label (not embedded in the generated PNG):
+Destination supports a separate description field? Checked / N/A / open:
+
+[ ] Storage and update responsibility agreed.
+Agreed project-folder label (no private access link):
+Approving role / update owner / authorized publishing role:
+
+[ ] Current share-image settings and plan support checked.
+Platform/current plan and feature evidence checked on:
+Existing image or default screenshot sufficient? Yes / no / open:
+Required change and unresolved conditions, if any:
+Carrd's custom Share Image requires Pro Lite or higher. Check the current
+account first and keep it when it supports the agreed settings. A PNG can
+also be used in an existing post or another site's supported image settings.
+
+[ ] Published page and actual share preview checked after an authorized update.
+Intended sharing service:
+Published page checked on / checking role:
+Actual share preview checked on / checking role:
+Cached old image or other open item / follow-up owner / review date:
+Mark checks complete only when actually performed; no preview is guaranteed.
+
+Optional free image resource — ordinary links:
+Share Card Studio is a Japanese tool from the same operator as Page Scope,
+made with AI assistance. Its guide includes an optional disclosed Carrd
+referral. Image creation needs no purchase. Set the image in your existing
+site or post workflow and check the result.
+Create a text-based PNG:
+https://share-card-studio-1110.crisp-llama-2628.chatgpt.site/?utm_source=owned_blog&utm_medium=guide&utm_campaign=handoff_share_image
+Image and sharing guide:
+https://share-card-studio-1110.crisp-llama-2628.chatgpt.site/guide?utm_source=owned_blog&utm_medium=guide&utm_campaign=handoff_share_image
+Carrd official Share Image instructions:
+https://carrd.com/docs/sites/adding-a-share-image
+
 PLANNING AND OFFICIAL REFERENCES — ORDINARY LINKS
 Page Scope feature/slot fit:
 https://page-scope-1109.crisp-llama-2628.chatgpt.site/#plan-fit
