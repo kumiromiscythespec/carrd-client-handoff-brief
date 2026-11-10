@@ -1,0 +1,144 @@
+PAGE SCOPE — CLIENT HANDOFF BRIEF
+Blank editable worksheet | Revision: 2026-11-10
+
+Free to download; no signup. Edit your own local copy. This file does not
+submit a transfer, grant access, save answers on Page Scope or verify a plan.
+Use project and role labels. Keep passwords, recovery codes, authentication
+links, payment details and personal contact information out of this brief.
+Do not paste a completed brief into a public post or reply.
+
+1. PROJECT AND AGREED SCOPE
+Project label:
+Brief prepared on:
+Review due on:
+Page purpose and intended audience:
+Agreed pages/content/features:
+Deliverables included:
+Items excluded or left for a later phase:
+Public address, if appropriate to record:
+
+2. CHOOSE THE HANDOFF METHOD
+Mark the primary method. If more than one action is agreed, describe each
+separately rather than treating them as interchangeable.
+[ ] Shared editing: the current owner keeps ownership and invites access.
+[ ] Ownership transfer: a sender transfers a site to a receiving account.
+[ ] Static export: deliver files for separately arranged hosting/processing.
+Reason for the selected method:
+Separate actions or dependencies:
+Who keeps ownership after each action (role label):
+Agreed completion date:
+
+For static export, list who will review the files, arrange hosting and test
+or replace provider-dependent functionality. Do not assume Carrd forms or
+server-side behavior keep working, or that an export can be reimported.
+Export/hosting review and replacement work, if relevant:
+
+3. CHECK EACH ACCOUNT ROLE SEPARATELY
+Mark a role N/A if it is not involved. One account may perform multiple
+roles; record that explicitly. Do not copy one account's subscription or
+budget to every collaborator.
+
+Count the whole account's owned sites, including drafts/archives where the
+provider counts them. Before an incoming transfer, check existing owned
+sites + incoming/new sites against capacity. An invitation to someone
+else's site is not itself a transfer of that site into your owned count.
+If outgoing transfers change the later total, record that separately.
+
+A. OWNER SHARING ACCESS
+Role/account label, or N/A:
+Existing owned site count:
+Incoming/new owned sites, if any:
+Total required owned slots (existing + incoming/new):
+Actual project features needed:
+Sharing and feature support verified on (date):
+Current/chosen plan and official evidence checked:
+Unresolved account/feature/capacity conditions:
+
+B. TRANSFER SENDER
+Role/account label, or N/A:
+Existing owned site count:
+Incoming/new owned sites before transfer, if any:
+Total required owned slots before transfer (existing + incoming/new):
+Outgoing sites and expected total after completion:
+Actual features needed for sites retained in this account:
+Sending eligibility and feature support verified on (date):
+Current/chosen plan and official evidence checked:
+Unresolved account/feature/capacity conditions:
+
+C. INVITED ADMIN OR EDITOR
+Role/account label, or N/A:
+Agreed access role and permitted tasks:
+Owner's shared site and required features checked:
+Own separate sites, if any (existing + incoming/new = required slots):
+Features required for those separately owned sites, if any:
+Invitation/access and any separate own-site plan checked on (date):
+Current/chosen plan, only if relevant, and official evidence checked:
+Unresolved access conditions:
+Do not assume an invitation alone requires a paid subscription.
+
+D. TRANSFER RECIPIENT
+Role/account label, or N/A:
+Existing owned site count:
+Incoming/new owned sites including this handoff:
+Total required owned slots (existing + incoming/new):
+Available slots verified:
+Actual features used by the incoming site:
+Active account, capacity and feature support checked on (date):
+Current/chosen plan and official evidence checked:
+Acceptance action/responsible role:
+Unresolved account/feature/capacity conditions:
+
+4. BILLING, DOMAIN AND CONNECTED SERVICES
+Record responsibility per account, not a default paid plan or quoted price.
+Confirm current charges and terms with the provider before agreeing a bill.
+
+Sharing owner — payer role / renewal responsibility / next review date:
+Transfer sender — payer role / renewal responsibility / next review date:
+Invited Admin/Editor — own charges, if any, and responsible role:
+Transfer recipient — payer role / renewal responsibility / next review date:
+Who approves future subscription or feature changes:
+One-time delivery work versus ongoing maintenance scope:
+
+Domain registrar/control owner (role label):
+Domain renewal payer and renewal-notice role:
+DNS/change approval role:
+Connected services (forms, email, analytics, hosting or other):
+For each service — control owner / payer / renewal and notice responsibility:
+Services intentionally not transferred or replaced:
+
+5. ACCEPTANCE CHECKS
+Mark only checks actually completed; keep unresolved items open.
+[ ] Agreed ownership/access method confirmed by the relevant roles.
+[ ] Required site slots and features verified for each applicable account.
+[ ] Recipient has accepted the transfer, if that method is used.
+[ ] Intended live address opens and agreed content is present.
+[ ] Included links/forms and other required behavior checked in their scope.
+[ ] Responsible role can make and review one ordinary content change.
+[ ] Publishing responsibility and live-result check explained.
+[ ] Domain/service control and renewal responsibilities confirmed.
+[ ] Static-export hosting and replacement functions tested, if applicable.
+[ ] Remaining issues and excluded work recorded.
+Checked on / checking role labels:
+Accepted scope and any remaining conditions:
+
+6. FOLLOW-UP
+Next change or unresolved item:
+Responsible role:
+Target/review date:
+How future work will be requested and approved (no private credentials):
+Provider support/documentation to consult:
+
+PLANNING AND OFFICIAL REFERENCES — ORDINARY LINKS
+Page Scope feature/slot fit:
+https://page-scope-1109.crisp-llama-2628.chatgpt.site/#plan-fit
+Page Scope first-year project budget:
+https://page-scope-1109.crisp-llama-2628.chatgpt.site/project-budget.html
+Carrd sharing access:
+https://carrd.com/docs/sites/sharing-access-to-a-site
+Carrd ownership transfer:
+https://carrd.com/docs/sites/transferring
+Carrd downloading a site:
+https://carrd.com/docs/sites/downloading
+
+Page Scope is an independent planning project. This blank worksheet is not
+an official Carrd transfer request, an account approval or a price promise.
