@@ -26,6 +26,14 @@ The file does not grant access, connect to Carrd, execute a transfer or verify a
 
 Share Card Studio is a free Japanese tool from the same operator as Page Scope, prepared with AI assistance. Its PNG can be used in an existing post or site; no purchase is required. Its guide includes an optional, disclosed Carrd referral. For Carrd's custom Share Image, check Pro Lite or higher and your existing plan first; keep the current image or screenshot if it meets the brief.
 
+### Try a fictional share-image handoff first
+
+1. Open [Share Card Studio (Japanese)](https://share-card-studio-1110.crisp-llama-2628.chatgpt.site/?utm_source=owned_blog&utm_medium=guide&utm_campaign=handoff_share_image). Choose **体験会の見本画像を作る** (make the workshop example) to generate a fictional 1200 × 630 image preview. It needs no client details; saving is a separate action.
+2. Read the preview, then replace the fictional heading and other wording with approved copy. Choose **この内容で画像を作る** (generate with this content) again before saving.
+3. Check **画像の説明文**, the editable description draft. It is separate from the PNG and is not embedded in the image. When the image is approved, choose **PNGを保存する** (save PNG) and keep the final image, source wording, separate description and approval/update roles with the brief.
+
+This trial does not publish the image, change an account or complete a transfer. Keep the existing role, feature and published-preview checks.
+
 ## Who maintains this
 
 This resource is maintained by the operator of Page Scope, an independent planning project, not Carrd. AI assistance was used to prepare the worksheet and this documentation. Some Page Scope guides contain disclosed, optional Carrd referral links; the links above open the free worksheet or planning tools, not affiliate redirects. The brief does not recommend a paid plan or promise a price, handoff result, customer outcome or income.
