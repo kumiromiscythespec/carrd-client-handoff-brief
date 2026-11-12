@@ -2,6 +2,7 @@
 
 A blank, editable plain-text brief for freelance Carrd page creators preparing client work. Use it to agree who owns, edits, pays for and checks the next version of a page.
 
+- [Download the blank TXT (v1.0.0)](https://github.com/kumiromiscythespec/carrd-client-handoff-brief/releases/download/v1.0.0/client-handoff-template.txt) · [Release notes](https://github.com/kumiromiscythespec/carrd-client-handoff-brief/releases/tag/v1.0.0).
 - [Read or copy the TXT in this repository](./client-handoff-template.txt).
 - [Open the hosted plain-text copy](https://page-scope-1109.crisp-llama-2628.chatgpt.site/client-handoff-template.txt).
 
